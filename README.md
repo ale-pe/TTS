@@ -1,5 +1,6 @@
 # TTS
 Ce programme lance une GUI Tkinter (Interface) qui permet de convertir du texte en un fichier audio (.mp3).
+Programme sous Python 3.
 
 # Pré-requis
 
